@@ -1,5 +1,7 @@
 import java.util.Scanner ; 
 
+
+Solution to BonAppetit problem on Hackerrank 
 // Kindly rename the file as Solution.java before executing. 
 
 public class Solution {

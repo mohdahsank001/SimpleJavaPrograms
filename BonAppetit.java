@@ -16,6 +16,7 @@ If Brian calculates the bill correctly, Anna will pay (2+4)/2 = 3. If he include
 calculate (2+4+6)/2 = 6.In the second case, he should refund to Anna.
 
 Function Description
+
 Complete the bonAppetit function in the editor below. It should print "Bon Appetit" if the bill is fairly split.
 Otherwise, it should print the integer amount of money that Brian owes Anna.
 

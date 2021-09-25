@@ -34,7 +34,7 @@ k: the divisor
 
 Input Format
 
-A single line of three space-separated integers describing the respective values of , , and .
+A single line of three space-separated integers describing the respective values of i,j, and k.
  
  Constraints 
  
